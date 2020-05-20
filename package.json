@@ -1,0 +1,23 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anshul",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "css": "^2.2.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "http": "0.0.0",
+    "mongoose": "^5.8.9",
+    "node-sessionstorage": "^1.0.0",
+    "sessionstorage": "^0.1.0"
+  }
+}
